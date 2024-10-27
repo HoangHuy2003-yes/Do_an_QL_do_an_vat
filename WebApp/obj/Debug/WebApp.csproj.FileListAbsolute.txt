@@ -1,0 +1,10 @@
+E:\C#\BTL_test\huy\WebApp\bin\WebApp.dll.config
+E:\C#\BTL_test\huy\WebApp\bin\WebApp.dll
+E:\C#\BTL_test\huy\WebApp\bin\WebApp.pdb
+E:\C#\BTL_test\huy\WebApp\obj\Debug\WebApp.csproj.AssemblyReference.cache
+E:\C#\BTL_test\huy\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+E:\C#\BTL_test\huy\WebApp\obj\Debug\WebApp.dll
+E:\C#\BTL_test\huy\WebApp\obj\Debug\WebApp.pdb
+E:\C#\BTL_test\huy\WebApp\bin\Library.dll
+E:\C#\BTL_test\huy\WebApp\bin\Library.pdb
+E:\C#\BTL_test\huy\WebApp\obj\Debug\WebApp.csproj.Up2Date

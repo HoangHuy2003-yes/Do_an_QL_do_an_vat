@@ -1,0 +1,6 @@
+E:\C#\BTL_test\huy\Library\bin\Debug\Library.dll
+E:\C#\BTL_test\huy\Library\bin\Debug\Library.pdb
+E:\C#\BTL_test\huy\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+E:\C#\BTL_test\huy\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\C#\BTL_test\huy\Library\obj\Debug\Library.dll
+E:\C#\BTL_test\huy\Library\obj\Debug\Library.pdb
